@@ -4,7 +4,7 @@ Simple face detection with prebuild models.
 
 ## Launch
 
-* `npm start`
+* run `index.html` with live server
 
 * Allow to use your camera
 
