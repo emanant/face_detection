@@ -10,11 +10,11 @@ Simple face detection with prebuild models.
 
 ## Running
 
-* Highlight facial area on screen in realtime.
+* Face detection
 
-* estimating age.
+* Expressions detection
 
-* estimating facial expression (happy/sad/crying/shocked/excited etc).
+* Age estimations
 
 ## Authors
 
