@@ -1,6 +1,6 @@
 # face_detection
 
-Simple face detection with prebuild models.
+Simple face detection with prebuild models and face-api.
 
 ## Launch
 
